@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="yes" ?>
+<!DOCTYPE asignaturas>
+
+
+<asignaturas>
+
+    <asignatura nombre ="Lenguajes de marcas y sistemas de gestión de información">
+            <profesor>Miguel Morales</profesor>
+                <alumnado>
+                    <alumno>Alejandro</alumno>
+                    <alumno>Raul</alumno>
+                    <alumno>Emilio</alumno>
+                    <alumno>José</alumno>
+                    <alumno>Manuel</alumno>
+                    <alumno>Antonio</alumno>
+                    <alumno>Francisco</alumno>
+                    <alumno>Abraham</alumno> 
+                    <alumno>Andrés</alumno> 
+                    <alumno>Pedro</alumno>
+                </alumnado>
+            </asignatura>
+    <asignatura nombre ="Entornos de desarrollo">
+            <profesor>Miguel Morales</profesor>
+                <alumnado>
+                    <alumno>Alejandro</alumno>
+                    <alumno>Raul</alumno>
+                    <alumno>Emilio</alumno>
+                    <alumno>José</alumno>
+                    <alumno>Manuel</alumno>
+                    <alumno>Antonio</alumno>
+                    <alumno>Francisco</alumno>
+                    <alumno>Abraham</alumno> 
+                    <alumno>Andrés</alumno> 
+                    <alumno>Pedro</alumno>
+                </alumnado>
+        </asignatura>
+    <asignatura nombre ="Bases de datos">
+            <profesor>Manolo Cosano</profesor>
+                <alumnado>
+                    <alumno>Alejandro</alumno>
+                    <alumno>Raul</alumno>
+                    <alumno>Emilio</alumno>
+                    <alumno>José</alumno>
+                    <alumno>Manuel</alumno>
+                    <alumno>Antonio</alumno>
+                    <alumno>Francisco</alumno>
+                    <alumno>Abraham</alumno> 
+                    <alumno>Andrés</alumno> 
+                    <alumno>Pedro</alumno>
+                </alumnado>
+            </asignatura>
+    <asignatura nombre ="Programación">
+            <profesor>Manolo Cosano</profesor>
+                <alumnado>
+                    <alumno>Alejandro</alumno>
+                    <alumno>Raul</alumno>
+                    <alumno>Emilio</alumno>
+                    <alumno>José</alumno>
+                    <alumno>Manuel</alumno>
+                    <alumno>Antonio</alumno>
+                    <alumno>Francisco</alumno>
+                    <alumno>Abraham</alumno> 
+                    <alumno>Andrés</alumno> 
+                    <alumno>Pedro</alumno>
+                </alumnado> 
+            </asignatura>           
+    </asignaturas>
+    
+        
+
+        
